@@ -1,0 +1,39 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "pack.description",
+		"name": "pack.name",
+		"uuid": "UUID",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "ANOTHER UUID",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "UUID OF RP",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
